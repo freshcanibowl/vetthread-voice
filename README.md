@@ -6,7 +6,7 @@ Hackathon-isolated prototype for the AssemblyAI Voice Agent Hackathon 2026.
 
 ## What it does
 
-VetThread Voice converts a pet parent's natural spoken story into an evidence-linked veterinary handoff.
+Pet parents remember stories. Veterinarians need timelines and context. VetThread Voice converts a pet parent's natural spoken story into an evidence-linked veterinary handoff.
 
 - **Capture** — realtime speech through AssemblyAI.
 - **Clarify** — ask bounded questions when information is missing.
