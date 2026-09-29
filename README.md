@@ -27,3 +27,5 @@ cp .env.example .env.local
 npm install
 npm run dev
 ```
+
+CI verification is configured in GitHub Actions.
