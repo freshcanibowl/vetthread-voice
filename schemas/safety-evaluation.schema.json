@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","type":"object","required":["signal","confidence","action","evidence"],"properties":{"signal":{"type":"string"},"confidence":{"enum":["high","low"]},"action":{"enum":["RAISE_SAFETY_NOTICE","CONFIRM_BEFORE_ALERT"]},"evidence":{"type":"string"}}}
