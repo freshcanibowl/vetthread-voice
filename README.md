@@ -5,7 +5,7 @@
 Hackathon-isolated prototype for the AssemblyAI Voice Agent Hackathon 2026.
 
 ## Product thesis
-Pet parents remember symptoms as stories. Veterinarians need timelines and context. VetThread Voice converts natural spoken observations into a structured longitudinal veterinary handoff without diagnosing or replacing a veterinarian.
+Pet parents remember stories. Veterinarians need timelines and context. VetThread Voice converts natural spoken observations into a structured longitudinal veterinary handoff without diagnosing or replacing a veterinarian.
 
 ## Architecture
 Browser Mic → AssemblyAI Universal-3.5 Pro Realtime → finalized turns → VetThread Evidence Layer → clarification → longitudinal context → professional handoff.
