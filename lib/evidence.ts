@@ -17,7 +17,7 @@ export function validateCandidateAgainstTurn(input: ObservationCandidateInput, s
 
 export function createObservationCandidate(input: ObservationCandidateInput, sourceTurn: FinalVoiceTurn, now: string = new Date().toISOString()): Readonly<ObservationCandidate> {
   const validation = validateCandidateAgainstTurn(input, sourceTurn);
-  if (!validation.ok) throw new Error(validation.error);
+  if ("error" in validation) throw new Error(validation.error);
   return Object.freeze({ ...input, id: `obs-${crypto.randomUUID()}`, evidenceVersion: 1, createdAt: now, reviewStatus: "CANDIDATE" });
 }
 
