@@ -1,0 +1,10 @@
+{
+  "tools": [
+    {"name":"get_pet_context","purpose":"Retrieve bounded longitudinal context for the selected pet."},
+    {"name":"record_observation","purpose":"Record source-linked owner observations."},
+    {"name":"get_recent_timeline","purpose":"Retrieve recent timeline items."},
+    {"name":"plan_clarification","purpose":"Plan at most three bounded clarification questions."},
+    {"name":"generate_vetthread","purpose":"Generate a source-linked professional handoff."},
+    {"name":"raise_safety_notice","purpose":"Raise or confirm safety signals without diagnosis."}
+  ]
+}
