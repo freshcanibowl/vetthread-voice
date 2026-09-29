@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","type":"object","required":["petId","sourceTurnId","sourceQuote","sourceType","category","value"],"properties":{"petId":{"type":"string"},"sourceTurnId":{"type":"string"},"sourceQuote":{"type":"string"},"sourceType":{"enum":["OWNER_REPORTED","PRIOR_CONTEXT","UNKNOWN"]},"category":{"type":"string"},"value":{} }}
