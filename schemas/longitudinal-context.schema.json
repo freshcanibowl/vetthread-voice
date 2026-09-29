@@ -1,0 +1,1 @@
+{"$schema":"https://json-schema.org/draft/2020-12/schema","type":"object","required":["days","observations","note"],"properties":{"days":{"enum":[7,30,90]},"observations":{"type":"array"},"note":{"const":"NO_CAUSAL_INFERENCE"}}}
