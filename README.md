@@ -84,7 +84,7 @@ The proposed commercial model is **monthly/annual clinic subscription**, with th
 - Deterministic UI safety-state controller.
 - Hackathon demo scenario and submission checklist.
 
-Existing repository status: **57/57 fixture regression tests PASS** and evaluation harness PASS. These are engineering fixture results, **not clinical validation**.
+Existing repository status: **18/18 regression tests PASS** (`npm test`) and **8/8 evaluation checks PASS** (`npm run evaluate`). Both figures are reproducible from this repository. These are engineering fixture results, **not clinical validation**.
 
 ## Local run
 

@@ -4,14 +4,13 @@
 Day 10 engineering freeze.
 
 ## Verified fixture evidence
-- Day 2: 5/5
-- Day 3: 11/11
-- Day 4: 18/18
-- Day 5: 24/24
-- Day 6: 32/32
-- Day 7: 41/41
-- Day 8: 52/52
-- Day 9/10: 57/57 PASS
+
+Reproducible from this repository at this commit:
+
+- `npm test` — 18/18 PASS (8 test files)
+- `npm run evaluate` — 8/8 checks PASS
+
+An earlier revision of this file listed a day-by-day progression (5/5 … 57/57). Those totals are not reproducible from any commit in this repository — the highest `test()` count present in any commit before the safety-wiring fix was 12 — and the progression has been removed rather than repeated.
 
 ## Evaluation interpretation
 These are engineering fixture/regression results, not clinical validation.

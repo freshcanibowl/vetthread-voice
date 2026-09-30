@@ -12,7 +12,7 @@ export default function Home() {
         <p className="eyebrow">Longitudinal pet context from natural voice</p>
         <h1>Speak the story.<br />Bring your vet the thread.</h1>
         <p className="lede">VetThread turns natural pet-parent speech into source-linked observations, bounded clarifications, relevant history, and a concise professional handoff—without diagnosing.</p>
-        <div className="heroProof"><span><strong>57/57</strong> regression tests</span><span><strong>3</strong> question hard cap</span><span><strong>100%</strong> fixture traceability</span><span><strong>0</strong> unsupported clinical claims</span></div>
+        <div className="heroProof"><span><strong>18/18</strong> regression tests</span><span><strong>3</strong> question hard cap</span><span><strong>100%</strong> fixture traceability</span><span><strong>0</strong> unsupported clinical claims</span></div>
       </section>
       <PikaDemo />
       <section className="liveSection">
