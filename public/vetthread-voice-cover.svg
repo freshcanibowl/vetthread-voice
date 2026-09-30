@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#10231f"/>
+<circle cx="1320" cy="170" r="250" fill="#24483e" opacity=".65"/>
+<circle cx="220" cy="760" r="310" fill="#193a33" opacity=".7"/>
+<g fill="none" stroke="#b7e6c8" stroke-width="8" stroke-linecap="round" opacity=".9">
+<path d="M150 590 L190 590 L215 520 L245 660 L280 555 L315 610 L350 590 L390 590"/>
+<path d="M430 590 L470 590 L500 545 L530 635 L560 505 L590 670 L625 590 L665 590"/>
+<path d="M705 590 L745 590 L775 560 L805 625 L840 535 L875 650 L910 590 L950 590"/>
+</g>
+<text x="150" y="245" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="700">VetThread Voice</text>
+<text x="150" y="330" fill="#b7e6c8" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="600">Speak the story. Bring your vet the thread.</text>
+<text x="150" y="405" fill="#d7e4df" font-family="Arial,Helvetica,sans-serif" font-size="28">Realtime voice intake → evidence → clarification →</text>
+<text x="150" y="445" fill="#d7e4df" font-family="Arial,Helvetica,sans-serif" font-size="28">structured veterinary handoff</text>
+<rect x="150" y="710" width="520" height="72" rx="36" fill="#b7e6c8"/>
+<text x="185" y="758" fill="#10231f" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">ASSEMBLYAI • REALTIME STT</text>
+<text x="1180" y="690" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="96" font-weight="700">VT</text>
+<text x="1185" y="745" fill="#b7e6c8" font-family="Arial,Helvetica,sans-serif" font-size="24">SAFETY BY DESIGN</text>
+</svg>
